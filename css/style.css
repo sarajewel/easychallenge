@@ -1,0 +1,86 @@
+body{
+  font-family:'Courier New', Courier, monospace;
+  font-size: xx-large;
+  color: white
+}
+.topblock {
+  float: left;
+  height: 200px;
+  width: 100%;
+  background-color: #0092ff;
+  text-align: center;
+  padding-top: 160px;
+}
+.topleftsidebar{
+  float: left;
+  height: 200px;
+  width: 50%;
+  background-color: #eaad21;
+  text-align: center;
+  padding-top: 160px;
+}
+.toprightsidebar{
+  float: right;
+  height: 200px;
+  width: 50%;
+  background-color: #ffe200;
+  text-align: center;
+  padding-top: 160px;
+}
+.topmain{
+float: left;
+height: 200px;
+width: 75%;
+background-color: #65bcb5;
+text-align: center;
+padding-top: 160px;
+}
+.topdiv{
+  float: right;
+  height: 200px;
+  width: 25%;
+  background-color: #0092ff;
+  text-align: center;
+  padding-top: 160px;
+}
+.leftsidebar{
+  float: left;
+  height: 200px;
+  width: 33.33%;
+  background-color: #eaad21;
+  text-align: center;
+  padding-top: 160px;
+}
+.centersidebar{
+  float: left;
+  height: 200px;
+  width: 33.33%;
+  background-color: #ffe200;
+  text-align: center;
+  padding-top: 160px;
+}
+.rightsidebar{
+  float: right;
+  height: 200px;
+  width: 33.33%;
+  background-color: #eaad21;
+  text-align: center;
+  padding-top: 160px;
+}
+.lowermain {
+  float: left;
+  height: 200px;
+  width: 100%;
+  background-color: #65bcb5;
+  text-align: center;
+  padding-top: 160px;
+}
+.footer {
+  float: left;
+  height: 40px;
+  width: 100%;
+  background-color: #0092ff;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
